@@ -11,7 +11,7 @@ This project is an e-commerce website named "5Mart" that offers a wide range of 
 - **Responsive Design**: Optimized for viewing on various devices including desktops, tablets, and smartphones.
 
 ##  5Mart Website Preview
-
+https://github.com/Paramhans-Singh/5Mart/assets/101575816/849f6461-a781-4f61-8876-cf0448956821
 
 ## Technologies Used
 - **Frontend**: HTML, CSS, JavaScript
@@ -45,3 +45,8 @@ We welcome contributions to improve the website. Please follow these steps:
 4. Commit your changes.
 5. Push to the branch.
 6. Open a pull request.
+
+## Contact
+For any inquiries or issues, please contact:
+- **Email**: paramhanssingh084@gmail.com
+- **GitHub**: [paramhanssingh](https://github.com/Paramhans-Singh)
